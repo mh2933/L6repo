@@ -1,0 +1,2 @@
+detta är första raden
+i skapadet av GIT repository 
