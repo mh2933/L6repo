@@ -3,3 +3,5 @@ detta är första raden
 här har det kommit in en ny rad
 
 i skapadet av GIT repository 
+
+min nya feature som kaaanske funkar...
