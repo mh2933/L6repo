@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 chnages first row again
+=======
+changes first row
+>>>>>>> 96abb12 (merge provocation)
 
 detta är andra filen 
 i skapandet av git
