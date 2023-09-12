@@ -1,3 +1,5 @@
 skpaandet av en fil i en gren
 add a row
 addar en rad och skapar en mergekonflikt
+addar en rad i grenen to create a mergeconflict
+
